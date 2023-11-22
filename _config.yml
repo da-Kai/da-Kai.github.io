@@ -1,0 +1,11 @@
+title: da-Kai
+email: kaijeschek+github@gmail.com
+description: >- 
+  My simple Webpage.
+baseurl: ""
+url: "https://da-kai.github.io/"
+github_username:  da-Kai
+
+theme: minima
+plugins:
+  - jekyll-feed
