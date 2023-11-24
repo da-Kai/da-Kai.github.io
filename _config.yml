@@ -6,6 +6,10 @@ baseurl: ""
 url: "https://da-kai.github.io/"
 github_username:  da-Kai
 
-theme: minima
+remote_theme: jekyll/minima
+minima:
+  skin: auto
+
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
