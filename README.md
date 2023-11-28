@@ -1,10 +1,10 @@
 # da-kai.github.io
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/preview/home_dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/preview/home_light.png">
-  <img alt="Webpage Preview" style="border: 2px solid gray;">
-</picture>
+<p style="align: center">
+    <img src="assets/preview/home_dark.png#gh-dark-mode-only" style="border: 2px solid gray;">
+    <img src="assets/preview/home_light.png#gh-light-mode-only"
+    style="border: 2px solid gray;">
+</p>
 
 This is my simple Webpage hosted using [Github-Pages](https://pages.github.com/) and [jekyll](https://jekyllrb.com/).
 
